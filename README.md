@@ -1,3 +1,4 @@
 # jsonToFirestore
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/rod77/jsonToFirestore)
+Para ejecutarlo directamente:
+https://stackblitz.com/edit/react-ed5rdu?file=src%2FApp.js
